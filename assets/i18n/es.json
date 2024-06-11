@@ -1,0 +1,18 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "education": "Educación",
+        "trajectory": "Trayectoria",
+        "projects": "Proyectos"
+    },
+    "footer": {
+        "contact": "Contacto",
+        "social": "Redes",
+        "glossary": "Glosario"
+    },
+    "home": {
+        "aboutme": "Sobre mí",
+        "tags": "Tecnologías con las que é trabajado",
+        "experience": "Experiencia"
+    }
+}
